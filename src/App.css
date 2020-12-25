@@ -1,3 +1,10 @@
+.App {
+  display: flex;
+  align-items: stretch;
+  height: 100%;
+  width: 100%;
+}
+
 .App-header {
   background-color: #222;
   padding-bottom: 0.5rem;
@@ -14,4 +21,5 @@
 .App-main {
   padding-top: 7rem;
   background-color: #E6ECF0;
+  height: 100%;
 }
